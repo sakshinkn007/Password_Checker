@@ -32,7 +32,7 @@ The strength of the password is determined based on the following criteria:
 ## 💡 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/sakshinkn007/Password_Checker
 2.Navigate to the project directory:
 cd password-strength-checker
 
